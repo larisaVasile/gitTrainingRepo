@@ -6,5 +6,7 @@ mmmm
 
 master1
 
+<<<<<<< HEAD
 m2
 
+1 commit
